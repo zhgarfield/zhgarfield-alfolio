@@ -553,7 +553,7 @@ ninja.data = [{
         title: 'Open Science Framework',
         section: 'Socials',
         handler: () => {
-          window.open("https://osf.io/https://osf.io/zyp6m//", "_blank");
+          window.open("https://osf.io/zyp6m/", "_blank");
         },
       },{
         id: 'social-scholar',
