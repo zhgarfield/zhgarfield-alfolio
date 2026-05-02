@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zhgarfield.github.io//zhgarfield-alfolio/sitemap.xml
+Sitemap: https://zhgarfield.github.io/zhgarfield-alfolio/sitemap.xml
