@@ -23,7 +23,28 @@ module ExternalPosts
     end
 
     def fetch_from_rss(site, src)
-      xml = HTTParty.get(src['rss_url']).body
+      def fetch_from_rss(site, src)
+  # Add a browser-like User-Agent header
+  headers = { "User-Agent" => "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" }
+  response = HTTParty.get(src['rss_url'], headers: headers)
+  
+  # Check for a successful response (200 OK)
+  unless response.success?
+    puts "Failed to fetch RSS feed from #{src['rss_url']} - HTTP #{response.code}"
+    return
+  end
+
+  xml = response.body
+  return if xml.nil?
+
+  begin
+    feed = Feedjira.parse(xml)
+  rescue StandardError => e
+    puts "Error parsing RSS feed from #{src['rss_url']} - #{e.message}"
+    return
+  end
+  process_entries(site, src, feed.entries)
+end
       return if xml.nil?
       begin
         feed = Feedjira.parse(xml)
