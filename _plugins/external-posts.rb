@@ -23,29 +23,19 @@ module ExternalPosts
     end
 
     def fetch_from_rss(site, src)
-      def fetch_from_rss(site, src)
-  # Add a browser-like User-Agent header
-  headers = { "User-Agent" => "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" }
-  response = HTTParty.get(src['rss_url'], headers: headers)
-  
-  # Check for a successful response (200 OK)
-  unless response.success?
-    puts "Failed to fetch RSS feed from #{src['rss_url']} - HTTP #{response.code}"
-    return
-  end
+      # Add a browser-like User-Agent header to avoid 403 blocks
+      headers = { "User-Agent" => "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" }
+      response = HTTParty.get(src['rss_url'], headers: headers)
 
-  xml = response.body
-  return if xml.nil?
+      # Check for a successful response (200 OK)
+      unless response.success?
+        puts "Failed to fetch RSS feed from #{src['rss_url']} - HTTP #{response.code}"
+        return
+      end
 
-  begin
-    feed = Feedjira.parse(xml)
-  rescue StandardError => e
-    puts "Error parsing RSS feed from #{src['rss_url']} - #{e.message}"
-    return
-  end
-  process_entries(site, src, feed.entries)
-end
+      xml = response.body
       return if xml.nil?
+
       begin
         feed = Feedjira.parse(xml)
       rescue StandardError => e
@@ -88,7 +78,7 @@ end
       doc.data['description'] = content[:summary]
       doc.data['date'] = content[:published]
       doc.data['redirect'] = url
-      
+
       # Apply default categories and tags from source configuration
       if src['categories'] && src['categories'].is_a?(Array) && !src['categories'].empty?
         doc.data['categories'] = src['categories']
@@ -96,7 +86,7 @@ end
       if src['tags'] && src['tags'].is_a?(Array) && !src['tags'].empty?
         doc.data['tags'] = src['tags']
       end
-      
+
       doc.content = content[:content]
       site.collections['posts'].docs << doc
     end
@@ -140,6 +130,5 @@ end
         # Note: The published date is now added in the fetch_from_urls method.
       }
     end
-
   end
 end
