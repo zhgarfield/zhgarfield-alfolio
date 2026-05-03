@@ -125,8 +125,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
 external_sources:
-  - name: psychologytoday.com
-    rss_url: https://www.psychologytoday.com/us/blog/ecology-of-minds/@al-folio/feed
+  - name: Ecology of Minds at PsychologyToday.com
+    rss_url: https://www.psychologytoday.com/us/blog/ecology-of-minds/feed
     categories: [external-posts]
     tags: [psychologytoday]
   - name: 
