@@ -51,7 +51,62 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/zhgarfield-alfolio/repositories/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-where-women-39-s-influence-actually-lies",
+        
+          title: 'Where Women&#39;s Influence Actually Lies <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Women&#39;s real influence often isn&#39;t about dominance—it&#39;s about prestige, mediation, and keeping communities together.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.psychologytoday.com/us/blog/ecology-of-minds/202605/where-womens-influence-actually-lies", "_blank");
+          
+        },
+      },{id: "post-apple-tv-s-39-pluribus-39-exposes-the-fragility-of-cooperation",
+        
+          title: 'Apple TV’s &#39;Pluribus&#39; Exposes the Fragility of Cooperation <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "An alien virus creates a hive mind. But the story is how the survivors fail to unite—revealing human cooperation&#39;s fragile beauty.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.psychologytoday.com/us/blog/ecology-of-minds/202512/apple-tvs-pluribus-exposes-the-fragility-of-cooperation", "_blank");
+          
+        },
+      },{id: "post-what-makes-a-good-reputation",
+        
+          title: 'What Makes a Good Reputation? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Reputations matter everywhere—but not always for the same reasons.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.psychologytoday.com/us/blog/ecology-of-minds/202509/what-makes-a-good-reputation", "_blank");
+          
+        },
+      },{id: "post-the-many-faces-of-leadership",
+        
+          title: 'The Many Faces of Leadership <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "What makes someone a leader isn’t just strength or charisma. It’s the mix of resources they bring—and how those align with what their group needs.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.psychologytoday.com/us/blog/ecology-of-minds/202509/the-many-faces-of-leadership", "_blank");
+          
+        },
+      },{id: "post-leaders-for-the-world-we-think-we-live-in",
+        
+          title: 'Leaders for the World We Think We Live In <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Why do we trust steady hands in some contexts and risk-takers in others? Evolutionary theory reveals how environments shape our shifting choices of leaders.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.psychologytoday.com/us/blog/ecology-of-minds/202508/leaders-for-the-world-we-think-we-live-in", "_blank");
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -71,17 +126,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/zhgarfield-alfolio/blog/2024/photo-gallery/";
-          
-        },
-      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
-        
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
           
         },
       },{id: "post-a-post-with-tabs",
@@ -302,17 +346,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/zhgarfield-alfolio/blog/2022/giscus-comments/";
-          
-        },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
       },{id: "post-a-post-with-redirect",
