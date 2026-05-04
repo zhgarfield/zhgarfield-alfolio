@@ -129,12 +129,6 @@ external_sources:
     rss_url: https://www.psychologytoday.com/us/blog/ecology-of-minds/feed
     categories: [external-posts]
     tags: [psychologytoday]
-  - name: 
-    posts:
-      - url: 
-        published_date: 
-    categories:
-    tags:
 
 # -----------------------------------------------------------------------------
 # Newsletter
