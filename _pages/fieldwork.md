@@ -4,7 +4,7 @@ permalink: /fieldwork/
 title: fieldwork
 description: Ethnographic research in southwest Ethiopia since 2015.
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 I've conducted ethnographic fieldwork in southwest Ethiopia for over a decade, including among many distinct ethnolinguistic communities. The work began with the Chabu forager-horticulturalists of the Sheka forests, where I study traditional and contemporary leadership among women and men in this relatively egalitarian society.
