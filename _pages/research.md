@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: How cooperation is organized and sustained in human societies.
+description: The mechanisms of sociality underpinning human uniqueness.
 nav: true
 nav_order: 2
 ---
@@ -21,7 +21,7 @@ How are cooperative norms enforced, taught, and stabilized across generations? M
 
 ## Social networks and risk buffering
 
-How do individual decisions about relationships scale into the network structures that shape coordination, conflict, and resilience? Through an [NSF *Human Networks and Data Science* grant](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2214088), I co-direct a multi-site longitudinal study of interethnic networks across four pastoralist communities in Ethiopia's Omo Valley. Early results show that intercultural and inter-gender ties form even within strongly patriarchal settings, suggesting one way relational structures buffer risk and sustain cooperation under ecological and economic pressure.
+How do individual decisions about relationships scale into the network structures that shape coordination, conflict, and resilience? Through an [NSF Human Networks and Data Science grant](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2214088), I co-direct a multi-site longitudinal study of interethnic networks across four pastoralist communities in Ethiopia's Omo Valley. Early results show that intercultural and inter-gender ties form even within strongly patriarchal settings, suggesting one way relational structures buffer risk and sustain cooperation under ecological and economic pressure.
 
 ## Health, ecology, and inequality
 
