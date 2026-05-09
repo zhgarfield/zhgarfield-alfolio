@@ -18,17 +18,10 @@ ninja.data = [{
           },
         },{id: "nav-research",
           title: "research",
-          description: "How cooperation is organized and sustained in human societies.",
+          description: "The mechanisms of sociality underpinning human uniqueness.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/zhgarfield-alfolio/research/";
-          },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/zhgarfield-alfolio/projects/";
           },
         },{id: "nav-fieldwork",
           title: "fieldwork",
