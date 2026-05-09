@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/zhgarfield-alfolio/fieldwork/";
           },
+        },{id: "nav-philosophy",
+          title: "philosophy",
+          description: "How I think about doing science, and why.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/zhgarfield-alfolio/philosophy/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
