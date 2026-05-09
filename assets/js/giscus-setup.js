@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "zhgarfield/zhgarfield-alfolio",
+    "data-repo": "zhgarfield/zhgarfield.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
