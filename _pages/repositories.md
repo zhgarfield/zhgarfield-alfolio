@@ -17,6 +17,14 @@ nav_order: 5
   </div>
 </div>
 
+{% if site.repo_trophies.enabled %}
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% include repository/repo_trophies.liquid username="zhgarfield" %}
+</div>
+
+{% endif %}
+
 ## Repositories
 
 <div class="row row-cols-1 row-cols-md-2 g-3">
