@@ -13,7 +13,7 @@ nav_order: 5
   </a>
   <div>
     <h4 class="mb-1"><a href="https://github.com/zhgarfield">@zhgarfield</a></h4>
-    <p class="mb-0 text-muted">Code, data, and analyses from published work.</p>
+    <p class="mb-0 text-muted">Data repositories from published work. Code and analyses on <a href="https://osf.io/zyp6m/">OSF</a>.</p>
   </div>
 </div>
 
