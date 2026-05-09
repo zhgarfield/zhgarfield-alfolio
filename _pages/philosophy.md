@@ -3,7 +3,8 @@ layout: page
 permalink: /philosophy/
 title: philosophy
 description: How I think about doing science, and why.
-nav: false
+nav: true
+nav_order: 4
 ---
 
 I value quantitative, multidisciplinary approaches in the human sciences, built on sound theoretical foundations. I'm a proponent of open science, and of coupling confirmatory and exploratory analyses.
