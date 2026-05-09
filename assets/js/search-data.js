@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+          description: "Courses taught.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/zhgarfield-alfolio/teaching/";
