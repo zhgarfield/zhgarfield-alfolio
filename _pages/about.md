@@ -30,13 +30,13 @@ Now is an extraordinary time to be a social scientist. As a species, we're cross
 
 We have a narrow window to collect high-resolution empirical data among rural, subsistence-based communities. Data that can speak to some of our oldest questions about who we are. Alongside this work, we have an opportunity, and I'd argue an obligation, to serve as advocates for these communities as they navigate their changing worlds.
 
-I'm an evolutionary anthropologist and interdisciplinary behavioral scientist. I'm an Assistant Professor at [University Mohammed VI Polytechnic](https://um6p.ma/) in Rabat, Morocco, jointly appointed to the Faculty of Governance, Economics, and Social Sciences and the Africa Institute for Research in Economics and Social Sciences. I co-direct [The Omo Valley Research Project](https://www.omovalleyresearchproject.org/), a non-profit doing scientific research and community development in southwest Ethiopia, and I write [*Ecology of Minds*](https://www.psychologytoday.com/us/blog/ecology-of-minds), a blog on how culture, context, and evolution shape behavior.
+I'm an evolutionary anthropologist and interdisciplinary behavioral scientist. I'm an Assistant Professor at [University Mohammed VI Polytechnic](https://um6p.ma/) in Rabat, Morocco, jointly appointed to the Faculty of Governance, Economics, and Social Sciences and the Africa Institute for Research in Economics and Social Sciences. I was previously a research fellow at the [Institute for Advanced Study in Toulouse](https://www.iast.fr/). I co-direct [The Omo Valley Research Project](https://www.omovalleyresearchproject.org/), a non-profit doing scientific research and community development in southwest Ethiopia, and I write [*Ecology of Minds*](https://www.psychologytoday.com/us/blog/ecology-of-minds), a blog on how culture, context, and evolution shape behavior.
 
 ## Research
 
 I study the mechanisms of sociality underpinning human uniqueness, and how cooperation is organized and sustained in human societies. The work runs along four connected threads: *leadership and coordination*, *norms and cultural transmission*, *social networks and risk buffering*, and *social position and health*. I work at three scales: long-term ethnographic fieldwork in southwest Ethiopia, comparative analysis using global ethnographic databases, and computational modeling.
 
-The longer story lives on [research](/research/), [fieldwork](/fieldwork/), and [scientific philosophy](/philosophy/).
+For the long story, check out the [research](/research/), [fieldwork](/fieldwork/), and [scientific philosophy](/philosophy/) pages.
 
 ## Get in touch
 
