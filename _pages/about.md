@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Behavioral Scientist & Evolutionary Anthropologist
+subtitle: Evolutionary Anthropologist
 
 profile:
   align: right
