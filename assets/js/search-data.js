@@ -16,12 +16,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/zhgarfield-alfolio/publications/";
           },
+        },{id: "nav-research",
+          title: "research",
+          description: "How cooperation is organized and sustained in human societies.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/zhgarfield-alfolio/research/";
+          },
         },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/zhgarfield-alfolio/projects/";
+          },
+        },{id: "nav-fieldwork",
+          title: "fieldwork",
+          description: "Ethnographic research in southwest Ethiopia since 2015.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/zhgarfield-alfolio/fieldwork/";
           },
         },{id: "nav-cv",
           title: "CV",
