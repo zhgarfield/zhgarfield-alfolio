@@ -34,7 +34,7 @@ I'm an evolutionary anthropologist and interdisciplinary behavioral scientist. I
 
 ## Research
 
-I study how cooperation is organized and sustained in human societies. The work runs along four connected threads: leadership and coordination, norms and cultural transmission, social networks and risk buffering, and the link between social position and health. I work at three scales: long-term ethnographic fieldwork in southwest Ethiopia, comparative analysis using global ethnographic databases, and computational modeling.
+I study the mechanisms of sociality underpinning human uniqueness, and how cooperation is organized and sustained in human societies. The work runs along four connected threads: leadership and coordination, norms and cultural transmission, social networks and risk buffering, and the link between social position and health. I work at three scales: long-term ethnographic fieldwork in southwest Ethiopia, comparative analysis using global ethnographic databases, and computational modeling.
 
 The longer story lives on [research](/research/), [fieldwork](/fieldwork/), and [scientific philosophy](/philosophy/).
 
