@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/chabu_interview_small75.jpg" class="img-fluid rounded float-end ms-3 mb-2" %}
+{% include figure.liquid loading="eager" path="assets/img/chabu_interview_small75.jpg" class="img-fluid rounded float-end ms-3 mb-2" style="30%;" %}
 
 I've conducted ethnographic fieldwork in southwest Ethiopia for over a decade, including among several distinct ethnolinguistic communities. My initial fieldwork was conducted among the Chabu forager-horticulturalists of the Sheka Forests, where I studied traditional and contemporary leadership among men and women in this relatively egalitarian society.
 
