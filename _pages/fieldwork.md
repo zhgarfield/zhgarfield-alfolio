@@ -17,6 +17,8 @@ OVRP is an interdisciplinary non-profit. It supports research on cultural change
 
 A core part of OVRP's mission is supporting interdisciplinary research that draws on this longitudinal, cross-cultural data. Many social scientists and adjacent researchers lack the access, knowledge, or capacity to run their own field projects, even though sample diversity remains a serious limitation across the social sciences. If you're a researcher with questions that need a field context, get in touch.
 
+{% include figure.liquid loading="eager" path="assets/img/ovrplandscape.001.jpeg" class="img-fluid rounded z-depth-1" %}
+
 ## AnthroCollect
 
 [AnthroCollect](https://sites.bu.edu/anthrocollect/) is a free, open-access data-collection app my co-PIs and I built for the realities of long-term, multi-community fieldwork. Built on ODK-X and tested over two years across our Omo Valley sites, it supports phonetic search to find participants when names are spelled inconsistently, photo-based verification, and persistent links between individuals and households that survive across surveys and seasons.
