@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-I study how cooperation is organized and sustained in human societies. Specifically, how social influence is distributed, how norms are enforced and transmitted, and how individuals navigate risk through their social relationships. I work at three scales: long-term ethnographic fieldwork in southwest Ethiopia, comparative analysis using global ethnographic databases, and computational modeling. Together these test evolutionary theory against empirical data from culturally diverse, subsistence-based populations.
+I study how cooperation is organized and sustained in human societies. Specifically, how social influence is distributed, how norms are enforced and transmitted, and how individuals navigate risk through their social relationships. I work at three scales: long-term ethnographic fieldwork in southwest Ethiopia, comparative analysis using global ethnographic databases, and computational modeling. Together, these allow me to test evolutionary theories against empirical data from culturally diverse, subsistence-based populations.
 
 My research program is organized around four connected questions.
 
