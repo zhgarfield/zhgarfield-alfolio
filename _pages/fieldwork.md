@@ -7,7 +7,9 @@ nav: true
 nav_order: 2
 ---
 
-I've conducted ethnographic fieldwork in southwest Ethiopia for over a decade, including among several distinct ethnolinguistic communities. My initial fieldwork was conducted among the Chabu forager-horticulturalists of the Sheka Forests, where I studied traditional and contemporary leadership among men and women in this relatively egalitarian society.{% include figure.liquid loading="eager" path="assets/img/chabu_interview_small75.jpg" class="img-fluid rounded float-end ms-3 mb-2" %}
+{% include figure.liquid loading="eager" path="assets/img/chabu_interview_small75.jpg" class="img-fluid rounded float-end ms-3 mb-2" %}
+
+I've conducted ethnographic fieldwork in southwest Ethiopia for over a decade, including among several distinct ethnolinguistic communities. My initial fieldwork was conducted among the Chabu forager-horticulturalists of the Sheka Forests, where I studied traditional and contemporary leadership among men and women in this relatively egalitarian society.
 
 My fieldwork now centers on [The Omo Valley Research Project (OVRP)](https://www.omovalleyresearchproject.org/), which I co-founded with [Luke Glowacki](https://www.hsb-lab.org/) and now co-direct with him and [Maud Mouginot](https://maudmouginot.github.io/). Since 2019, OVRP has run comparative and longitudinal social, biological, and health research across four ethnolinguistic communities in Ethiopia's Omo Valley: Hamar, Kara, Kwegu, and Nyangatom. Despite their proximity, these communities differ across multiple dimensions: from the nomadic Nyangatom to the densely settled Kwegu, from villages with functioning clinics to others with no medical access, from sharply stratified communities to relatively flatter ones. These features don't covary either: differences in one dimension rarely predict differences in another, which is what makes the region a useful comparative setting.
 
