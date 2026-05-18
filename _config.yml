@@ -260,8 +260,8 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: [] # tags to surface at the top of /blog/ — add as you start using them on posts
-display_categories: ["external-services"] # categories to surface at the top of /blog/
+display_tags: ["psychologytoday"] # tags to surface at the top of /blog/
+display_categories: ["external-posts"] # categories to surface at the top of /blog/
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
